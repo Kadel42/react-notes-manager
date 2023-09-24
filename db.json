@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "New note",
+      "content": "This is a new note to test my app.",
+      "created_at": "18. 7. 2023",
+      "id": 1
+    },
+    {
+      "title": "Can I search",
+      "content": "I want to test if search works",
+      "created_at": "18. 7. 2023",
+      "id": 2
+    }
+  ]
+}
